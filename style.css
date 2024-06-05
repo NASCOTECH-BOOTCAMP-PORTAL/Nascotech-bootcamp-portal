@@ -60,6 +60,7 @@ body {
     height: 582px;
     top: 1024px;
     color: black;
+    padding-top: 49px;
 }
 
 .sponsors h1 {
@@ -80,6 +81,7 @@ body {
     line-height: 18.29px;
     height: 18px;
     width: 164px;
+    text-align: center;
 }
 
 .other-sponsors p {
@@ -88,6 +90,18 @@ body {
     font-weight: 500;
     font-size: 15px;
     line-height: 18.29px;
+    text-align: center;
+}
+
+.sponsors img {
+    width: 131px;
+    height: 131px;
+}
+
+.other-sponsors img {
+    width: 180px;
+    height: 62px;
+
 }
 
 .programmes-and-courses {
