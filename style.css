@@ -40,6 +40,15 @@ body {
     left:784px;
     gap: 39px;
 }
+
+.column img {
+    width: 180px;
+    height: 569px;
+    top: 319px;
+    left: 776px;
+    display:inline;
+}
+
 .row-left{
     text-align: left;
 }
@@ -51,6 +60,7 @@ body {
     text-decoration: none;
     display: inline-block;
     font-size: 14px;
+    padding: 17px, 80px, 17px, 80px;
 }
 
 .sponsors {
